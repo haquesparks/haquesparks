@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 😎
+## Hi there, I'm Muhammed Ridhwaan Haque 😎
 
 <div align="center">
   <!-- Typing SVG with custom text and color -->
