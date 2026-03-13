@@ -33,9 +33,9 @@ I thrive in collaborative environments, enjoy solving complex problems, and comm
 
 ### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/📈%20Power%20BI-Expert-1B3A70?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
-  <img src="https://img.shields.io/badge/📑%20Excel-Expert-1B3A70?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
-  <img src="https://img.shields.io/badge/📊%20SQL-Beginner-82B1FF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/📈%20Power%20BI-Expert-1B3A70?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge">
+  <img src="https://img.shields.io/badge/📑%20Excel-Expert-1B3A70?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
+  <img src="https://img.shields.io/badge/📊%20SQL-Beginner-82B1FF?style=flat&logo=mysql&logoColor=white" alt="SQL Badge">
 </p>
 
 ### Programming & Automation
