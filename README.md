@@ -46,7 +46,7 @@ I thrive in collaborative environments, enjoy solving complex problems, and comm
 
 ### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Badge">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Experienced-FF6B6B?style=flat" alt="A/B Testing Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Badge">
