@@ -40,8 +40,8 @@ I thrive in collaborative environments, enjoy solving complex problems, and comm
 
 ### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/🐍%20Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/📊%20R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge">
+  <img src="https://img.shields.io/badge/🐍%20Python-Intermediate-3F51B5?style=flat&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/📊%20R-Beginner-82B1FF?style=flat&logo=r&logoColor=white" alt="R Badge">
 </p>
 
 ### Business Intelligence & Analytics
