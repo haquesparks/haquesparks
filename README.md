@@ -14,10 +14,15 @@
 ---
 
 ## 🚀 About Me 
-I'm a data analyst passionate about turning complex datasets into clear, actionable insights.  
-I love building dashboards that get used, automating repetitive tasks, and creating models that help teams plan for the future.  
+My studies at the Canadian University of Bangladesh as a Computer Science & Engineering student drive me to develop skills in business intelligence together with strategic problem-solving and data analytics. Through practical experience with Power BI and Microsoft Excel along with data visualization tools I transform unprocessed data into valuable insights which enable better decisions.
 
-When I'm not working with data, I enjoy **[Your Hobby or Passion]**. I love the "aha!" moment when data reveals something new.
+
+
+I have completed Udemy’s Data Analysis Bootcamp with Unbolt Academy’s Power BI Program, and developing skills through coursework from the Google Data Analytics Professional Certificate. The certifications helped me improve my analytical thinking abilities and technical skills. I seek to use my abilities in practical business environments by working in positions which focus on data analysis and performance monitoring and digital transformation.
+
+
+
+I thrive in collaborative environments, enjoy solving complex problems, and committed to continuous learning and professional growth. Let’s connect—whether you’re hiring, collaborating, or just want to exchange ideas about data and strategy!
 
 ### 🏆 Portfolio Website
 [Check Out My Full Portfolio](https://your-username.github.io/)
