@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Typing SVG with custom text and color -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=💻+Data+Analyst+%7C+Power+BI+%26+Python;📊+Turning+Data+into+Actionable+Insights;🚀+Building+Dashboards+That+Matter;🧠+Data+Storyteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=💻+Data+Analyst+%7C+Business+%26+Intelligence;📊+Turning+Data+into+Actionable+Insights;🚀+Building+Dashboards+That+Matter;🧠+Data+Storyteller" alt="Typing SVG" />
 </div>
 
 <!-- Social badges with custom colors -->
