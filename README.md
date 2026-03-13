@@ -2,13 +2,13 @@
 
 <div align="center">
   <!-- Typing SVG with custom text and color -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=💻+Data+Analyst+%7C+Business+Intelligence;📊+Turning+Data+into+Actionable+Insights;🚀+Building+Dashboards+That+Matter;🧠+Data+Storyteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=💻+Data+Analyst+%7C+Business+Intelligence;📊+Passionate+about+turning+Data+into+Insights;🚀+Building+Dashboards+That+Matter;🧠+Data+Storyteller" alt="Typing SVG" />
 </div>
 
 <!-- Social badges with custom colors -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-34A853?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/ridh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:muhammedsparks@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-34A853?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
