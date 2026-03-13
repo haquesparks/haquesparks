@@ -8,7 +8,6 @@
 <!-- Social badges with custom colors -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-E53935?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-34A853?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
