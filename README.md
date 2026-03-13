@@ -29,19 +29,6 @@ I thrive in collaborative environments, enjoy solving complex problems, and comm
 
 ---
 
-## 🔭 What I'm Currently Working On 
-- **Project A:** Building a sales forecasting model in Python 📈  
-- **Project B:** Creating an interactive marketing dashboard in Power BI 📊  
-- **Content Creation:** Developing tutorials on data visualization for my YouTube channel 🎥  
-
----
-
-## 🌱 Currently Learning 
-- Advanced machine learning techniques in Scikit-learn 🤖  
-- Cloud data warehousing with Google BigQuery ☁️  
-
----
-
 ## 🛠️ Technical Skillset
 
 ### Data Analysis & Visualization
